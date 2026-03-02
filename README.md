@@ -1,4 +1,4 @@
-# First Prompt
+# Generative AI 
 
 Generative AI continues to be one of the most transformative technologies in 2026. It not only automates tasks but also creates new content, designs, code, and workflows autonomously.
 
