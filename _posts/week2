@@ -1,0 +1,14 @@
+1. Data Splitting – “Homework vs. Final Exam” 
+Imagine you’re teaching a kid to do math.
+
+You give them homework problems to practice on.
+Later, you give them a test to see if they really understand it.
+In machine learning, we do the same thing with data:
+
+Training set = homework.
+This part of the data is what the computer learns from. It sees the examples and adjusts itself to do better and better.
+
+Test set = final exam.
+This part of the data is kept hidden until the end. We use it once the learning is done to check: “Can this model handle new, never-seen examples?”
+
+If we didn’t split the data and just tested on the same examples it learned from, it’d be like letting a student bring the answer key to the exam — it would look smart, but we wouldn’t know if it actually learned anything useful.
